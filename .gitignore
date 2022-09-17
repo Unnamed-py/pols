@@ -1,5 +1,10 @@
-pols/SECRET_KEY
+pols/secret_settings.py
+
 db.sqlite3
 __pycache__
 migrations
-migrations/*
+.vscode
+
+# Deprecated
+pols/secret.json
+pols/SECRET_KEY
